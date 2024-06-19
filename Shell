@@ -1,0 +1,12 @@
+STEP INPUT KODE PEMBUATAN DATABASE:
+
+1. mysql -u root
+2. create database Latihan1_Ncexs;
+3. use Latihan1_Ncexs;
+4. create table tabel_latihan_Ncexs (
+    id int auto_increment primary key,
+    nama varchar(50)
+);
+5. desc tabel_latihan_Ncexs;
+
+Note: (ganti Ncexs dengan nama Anda)
