@@ -1,4 +1,7 @@
-STEP INPUT KODE PEMBUATAN DATABASE:
+STEP PEMBUATAN DATABASE DI XAMPP
+
+Aktifkan Mysql dan Apache lalu buka shell
+ketik perintah dibawah ini
 
 1. mysql -u root
 2. create database Latihan1_Ncexs;
